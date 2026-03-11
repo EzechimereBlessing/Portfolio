@@ -303,3 +303,9 @@ textarea {
     margin-top: 25px;
   }
 }
+
+@media (max-width: 480px) {
+  .profile {
+    gap: 40%
+  }
+}
